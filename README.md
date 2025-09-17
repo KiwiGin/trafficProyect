@@ -10,7 +10,7 @@ Este proyecto implementa un pipeline extremo a extremo para la gestión intelige
 
 ---
 ## Integrantes
-Incluye aquí los miembros del equipo (reemplaza los placeholders):
+
 | Nombre | Contacto |
 |--------|----------|
 | Aldair Rivera | aldair.rivera1@unmsm.edu.pe |
