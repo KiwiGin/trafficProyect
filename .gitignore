@@ -1,1 +1,18 @@
-data/
+# Project-specific large files (avoid committing huge binaries)
+X_train.npy
+X_test.npy
+y_train.npy
+y_test.npy
+datos_merge_completo.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/editor
+.DS_Store
+Thumbs.db
